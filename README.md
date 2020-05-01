@@ -1,2 +1,2 @@
 # TestsExample
-Project with example tests 
+Project with example tests using XUnit
